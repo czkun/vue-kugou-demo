@@ -1,8 +1,8 @@
-# kugou
+## kugou
 
 > 基于vue+vuex仿写酷狗音乐
 
-# 特别感谢
+## 特别感谢
 
 > [vue-demo-kugou](https://github.com/lavyun/vue-demo-kugou)
 
